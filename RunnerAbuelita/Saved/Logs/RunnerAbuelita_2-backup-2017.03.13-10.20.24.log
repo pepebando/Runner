@@ -1,0 +1,601 @@
+﻿Log file open, 03/06/17 11:00:13
+LogInit:Display: Running engine for game: RunnerAbuelita
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-195654957) SRandInit(-195654957).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.075131
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -windowed -messaging -SessionName="Play in Standalone Game" 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.06-16.00.13:456][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.06-16.00.13:456][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.06-16.00.13:460][  0]LogInit: Computer: MSI
+[2017.03.06-16.00.13:460][  0]LogInit: User: jsoba
+[2017.03.06-16.00.13:460][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.06-16.00.13:460][  0]LogInit: High frequency timer resolution =2.630627 MHz
+[2017.03.06-16.00.13:461][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.03.06-16.00.13:461][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.06-16.00.13:461][  0]LogMemory: Process Physical Memory: 255.88 MB used, 255.88 MB peak
+[2017.03.06-16.00.13:461][  0]LogMemory: Process Virtual Memory: 260.03 MB used, 260.03 MB peak
+[2017.03.06-16.00.13:461][  0]LogMemory: Physical Memory: 8064.50 MB used, 16299.20 MB total
+[2017.03.06-16.00.13:461][  0]LogMemory: Virtual Memory: 623.24 MB used, 134217728.00 MB total
+[2017.03.06-16.00.14:240][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.06-16.00.14:629][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.06-16.00.14:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2017.03.06-16.00.14:664][  0]LogD3D11RHI:       3040/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.06-16.00.14:669][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 5600' (Feature Level 11_0)
+[2017.03.06-16.00.14:669][  0]LogD3D11RHI:       128/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.06-16.00.14:670][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.06-16.00.14:670][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.06-16.00.14:670][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.06-16.00.14:677][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.06-16.00.14:677][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.06-16.00.14:677][  0]LogWindows: EnumDisplayDevices:
+[2017.03.06-16.00.14:677][  0]LogWindows:    0. 'Intel(R) HD Graphics 5600' (P:1 D:1)
+[2017.03.06-16.00.14:677][  0]LogWindows:    1. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2017.03.06-16.00.14:677][  0]LogWindows:    2. 'Intel(R) HD Graphics 5600' (P:0 D:0)
+[2017.03.06-16.00.14:678][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.03.06-16.00.14:678][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2017.03.06-16.00.14:678][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.03.06-16.00.14:678][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.03.06-16.00.14:678][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.06-16.00.14:696][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.06-16.00.14:706][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.06-16.00.14:707][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/jsoba/OneDrive/Documentos/Unreal Projects/RunnerAbuelita/Intermediate/Shaders/WorkingDirectory/20456/).
+[2017.03.06-16.00.14:707][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jsoba/AppData/Local/Temp/UnrealShaderWorkingDir/A4326EB8420AEEF50EEA92B5B93D3B66/'.
+[2017.03.06-16.00.14:707][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.06-16.00.15:710][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.06-16.00.15:717][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.06-16.00.15:725][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.06-16.00.15:732][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.06-16.00.15:732][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.06-16.00.15:802][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.06-16.00.15:870][  0]LogDerivedDataCache: Loaded boot cache 0.07s 63MB C:/Users/jsoba/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.06-16.00.15:870][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/jsoba/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.06-16.00.15:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jsoba/OneDrive/Documentos/Unreal Projects/RunnerAbuelita/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.06-16.00.15:870][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.06-16.00.15:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jsoba/OneDrive/Documentos/Unreal Projects/RunnerAbuelita/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.06-16.00.15:870][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.06-16.00.15:886][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.06-16.00.15:897][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jsoba/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.06-16.00.16:064][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2017.03.06-16.00.16:070][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.005533 seconds
+[2017.03.06-16.00.16:088][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.06-16.00.16:090][  0]LogContentStreaming: Texture pool size is 1000.00 MB
+[2017.03.06-16.00.16:174][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.06-16.00.16:174][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.06-16.00.16:174][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.06-16.00.16:226][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.06-16.00.16:477][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: runnerabuelita, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2718364939
+[2017.03.06-16.00.16:493][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.06-16.00.16:639][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.06-16.00.16:639][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.06-16.00.16:697][  0]LogMoviePlayer: Initializing movie player
+[2017.03.06-16.00.16:840][  0]LogWindowsMoviePlayer: Unable to load movie: ../../../../../../Users/jsoba/OneDrive/Documentos/Unreal Projects/RunnerAbuelita/Content/Movies/Default_Startup.mp4
+[2017.03.06-16.00.16:911][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.06-16.00.16:931][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.06-16.00.16:998][  0]SourceControl: Info Source control is disabled
+[2017.03.06-16.00.16:998][  0]SourceControl: Info Source control is disabled
+[2017.03.06-16.00.17:007][  0]SourceControl: Info Source control is disabled
+[2017.03.06-16.00.17:139][  0]LogUObjectArray: 32656 objects as part of root set at end of initial load.
+[2017.03.06-16.00.17:139][  0]LogUObjectAllocator: 7245024 out of 0 bytes used by permanent object pool.
+[2017.03.06-16.00.17:139][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.06-16.00.17:188][  0]LogEngine: Initializing Engine...
+[2017.03.06-16.00.17:188][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.06-16.00.17:304][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2017.03.06-16.00.17:344][  0]LogInit: FAudioDevice initialized.
+[2017.03.06-16.00.17:350][  0]LogInit: Texture streaming: Enabled
+[2017.03.06-16.00.17:426][  0]LogInit:Display: Game Engine Initialized.
+[2017.03.06-16.00.17:470][  0]LogInit:Display: Starting Game.
+[2017.03.06-16.00.17:470][  0]LogNet: Browse: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player
+[2017.03.06-16.00.17:470][  0]LogLoad: LoadMap: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player
+[2017.03.06-16.00.17:487][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.06-16.00.17:487][  0]LogMemory: Process Physical Memory: 670.13 MB used, 700.86 MB peak
+[2017.03.06-16.00.17:487][  0]LogMemory: Process Virtual Memory: 726.52 MB used, 759.70 MB peak
+[2017.03.06-16.00.17:487][  0]LogMemory: Physical Memory: 8425.10 MB used, 16299.20 MB total
+[2017.03.06-16.00.17:487][  0]LogMemory: Virtual Memory: 1338.64 MB used, 134217728.00 MB total
+[2017.03.06-16.00.17:487][  0]LogMemory: 
+[2017.03.06-16.00.17:487][  0]Allocator Stats for TBB: (not implemented)
+[2017.03.06-16.00.18:014][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.06-16.00.18:014][  0]LogWorld: Game class is 'GameModeRunner_C'
+[2017.03.06-16.00.18:019][  0]LogWorld: Bringing World /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.03.06-11.00.18
+[2017.03.06-16.00.18:019][  0]LogWorld: Bringing up level for play took: 0.004467
+[2017.03.06-16.00.18:020][  0]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.18:020][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.18:020][  0]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.18:026][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.18:026][  0]LogLoad: Took 0.555848 seconds to LoadMap(/Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap)
+[2017.03.06-16.00.18:241][  0]LogLoad: (Engine Initialization) Total time: 5.70 seconds
+[2017.03.06-16.00.18:241][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.19 seconds
+[2017.03.06-16.00.18:241][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.06-16.00.18:241][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.06-16.00.18:258][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.06-16.00.18:258][  0]LogOcInput: OculusInput pre-init called
+[2017.03.06-16.00.18:314][  0]LogRenderer: Reallocating scene render targets to support 128x128 (Frame:1).
+[2017.03.06-16.00.18:405][  1]LogRenderer: Reallocating scene render targets to support 1280x720 (Frame:2).
+[2017.03.06-16.00.18:406][  1]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:406][  1]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:406][  1]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:406][  1]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:424][  2]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:424][  2]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:424][  2]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:424][  2]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:440][  3]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:440][  3]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:440][  3]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:440][  3]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:456][  4]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:456][  4]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:456][  4]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:456][  4]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:472][  5]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:472][  5]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:472][  5]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:472][  5]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:488][  6]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:488][  6]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:488][  6]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:488][  6]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:504][  7]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:504][  7]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:504][  7]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:504][  7]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:520][  8]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:520][  8]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:520][  8]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0127
+[2017.03.06-16.00.18:520][  8]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.18:536][  9]LogScript:Warning: Accessed None trying to read property Curva
+	ThirdPersonCharacter_C /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:002B
+[2017.03.06-16.00.18:536][  9]LogScript:Warning: Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveTick
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2017.03.06-16.00.20:262][116]LogBlueprintUserMessages: [GameModeRunner_C_0] 620.0
+[2017.03.06-16.00.22:262][240]LogBlueprintUserMessages: [GameModeRunner_C_0] 640.0
+[2017.03.06-16.00.23:101][292]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.23:101][292]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.23:101][292]LogGameMode: ProcessServerTravel: ?Restart
+[2017.03.06-16.00.23:117][293]LogEngine: Server switch level: ?Restart
+[2017.03.06-16.00.23:117][293]LogNet: Browse: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player?Restart
+[2017.03.06-16.00.23:117][293]LogLoad: LoadMap: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player
+[2017.03.06-16.00.23:148][293]LogMemory: Platform Memory Stats for Windows
+[2017.03.06-16.00.23:148][293]LogMemory: Process Physical Memory: 780.91 MB used, 797.17 MB peak
+[2017.03.06-16.00.23:148][293]LogMemory: Process Virtual Memory: 1030.44 MB used, 1040.77 MB peak
+[2017.03.06-16.00.23:148][293]LogMemory: Physical Memory: 8507.82 MB used, 16299.20 MB total
+[2017.03.06-16.00.23:148][293]LogMemory: Virtual Memory: 1700.98 MB used, 134217728.00 MB total
+[2017.03.06-16.00.23:148][293]LogMemory: 
+[2017.03.06-16.00.23:148][293]Allocator Stats for TBB: (not implemented)
+[2017.03.06-16.00.23:642][293]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.06-16.00.23:642][293]LogWorld: Game class is 'GameModeRunner_C'
+[2017.03.06-16.00.23:647][293]LogWorld: Bringing World /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.03.06-11.00.23
+[2017.03.06-16.00.23:647][293]LogWorld: Bringing up level for play took: 0.004017
+[2017.03.06-16.00.23:648][293]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.23:648][293]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.23:648][293]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.23:652][293]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.23:652][293]LogLoad: Took 0.535554 seconds to LoadMap(/Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap)
+[2017.03.06-16.00.25:251][392]LogBlueprintUserMessages: [GameModeRunner_C_0] 620.0
+[2017.03.06-16.00.27:252][516]LogBlueprintUserMessages: [GameModeRunner_C_0] 640.0
+[2017.03.06-16.00.29:252][640]LogBlueprintUserMessages: [GameModeRunner_C_0] 660.0
+[2017.03.06-16.00.31:252][764]LogBlueprintUserMessages: [GameModeRunner_C_0] 680.0
+[2017.03.06-16.00.33:252][888]LogBlueprintUserMessages: [GameModeRunner_C_0] 700.0
+[2017.03.06-16.00.35:252][ 12]LogBlueprintUserMessages: [GameModeRunner_C_0] 720.0
+[2017.03.06-16.00.37:252][136]LogBlueprintUserMessages: [GameModeRunner_C_0] 740.0
+[2017.03.06-16.00.39:252][260]LogBlueprintUserMessages: [GameModeRunner_C_0] 760.0
+[2017.03.06-16.00.41:252][384]LogBlueprintUserMessages: [GameModeRunner_C_0] 780.0
+[2017.03.06-16.00.43:252][508]LogBlueprintUserMessages: [GameModeRunner_C_0] 800.0
+[2017.03.06-16.00.45:253][632]LogBlueprintUserMessages: [GameModeRunner_C_0] 820.0
+[2017.03.06-16.00.46:511][710]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.46:512][710]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.46:512][710]LogGameMode: ProcessServerTravel: ?Restart
+[2017.03.06-16.00.46:527][711]LogEngine: Server switch level: ?Restart
+[2017.03.06-16.00.46:527][711]LogNet: Browse: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player?Restart
+[2017.03.06-16.00.46:527][711]LogLoad: LoadMap: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player
+[2017.03.06-16.00.46:561][711]LogMemory: Platform Memory Stats for Windows
+[2017.03.06-16.00.46:561][711]LogMemory: Process Physical Memory: 754.91 MB used, 813.07 MB peak
+[2017.03.06-16.00.46:561][711]LogMemory: Process Virtual Memory: 1068.85 MB used, 1165.23 MB peak
+[2017.03.06-16.00.46:561][711]LogMemory: Physical Memory: 8443.29 MB used, 16299.20 MB total
+[2017.03.06-16.00.46:561][711]LogMemory: Virtual Memory: 1770.86 MB used, 134217728.00 MB total
+[2017.03.06-16.00.46:561][711]LogMemory: 
+[2017.03.06-16.00.46:561][711]Allocator Stats for TBB: (not implemented)
+[2017.03.06-16.00.47:064][711]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.06-16.00.47:064][711]LogWorld: Game class is 'GameModeRunner_C'
+[2017.03.06-16.00.47:067][711]LogWorld: Bringing World /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.03.06-11.00.47
+[2017.03.06-16.00.47:068][711]LogWorld: Bringing up level for play took: 0.002905
+[2017.03.06-16.00.47:068][711]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.47:068][711]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.47:068][711]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.47:072][711]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.47:073][711]LogLoad: Took 0.545448 seconds to LoadMap(/Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap)
+[2017.03.06-16.00.48:667][810]LogBlueprintUserMessages: [GameModeRunner_C_0] 620.0
+[2017.03.06-16.00.50:667][934]LogBlueprintUserMessages: [GameModeRunner_C_0] 640.0
+[2017.03.06-16.00.52:667][ 58]LogBlueprintUserMessages: [GameModeRunner_C_0] 660.0
+[2017.03.06-16.00.53:522][111]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.53:522][111]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.53:522][111]LogGameMode: ProcessServerTravel: ?Restart
+[2017.03.06-16.00.53:538][112]LogEngine: Server switch level: ?Restart
+[2017.03.06-16.00.53:538][112]LogNet: Browse: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player?Restart
+[2017.03.06-16.00.53:538][112]LogLoad: LoadMap: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player
+[2017.03.06-16.00.53:569][112]LogMemory: Platform Memory Stats for Windows
+[2017.03.06-16.00.53:569][112]LogMemory: Process Physical Memory: 765.84 MB used, 813.07 MB peak
+[2017.03.06-16.00.53:569][112]LogMemory: Process Virtual Memory: 1076.77 MB used, 1171.62 MB peak
+[2017.03.06-16.00.53:569][112]LogMemory: Physical Memory: 8444.59 MB used, 16299.20 MB total
+[2017.03.06-16.00.53:569][112]LogMemory: Virtual Memory: 1794.86 MB used, 134217728.00 MB total
+[2017.03.06-16.00.53:569][112]LogMemory: 
+[2017.03.06-16.00.53:569][112]Allocator Stats for TBB: (not implemented)
+[2017.03.06-16.00.54:064][112]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.06-16.00.54:065][112]LogWorld: Game class is 'GameModeRunner_C'
+[2017.03.06-16.00.54:068][112]LogWorld: Bringing World /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.03.06-11.00.54
+[2017.03.06-16.00.54:068][112]LogWorld: Bringing up level for play took: 0.002452
+[2017.03.06-16.00.54:068][112]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.54:068][112]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.54:068][112]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.54:073][112]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.54:074][112]LogLoad: Took 0.535324 seconds to LoadMap(/Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap)
+[2017.03.06-16.00.55:667][211]LogBlueprintUserMessages: [GameModeRunner_C_0] 620.0
+[2017.03.06-16.00.57:667][335]LogBlueprintUserMessages: [GameModeRunner_C_0] 640.0
+[2017.03.06-16.00.58:135][364]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.58:135][364]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.06-16.00.58:136][364]LogGameMode: ProcessServerTravel: ?Restart
+[2017.03.06-16.00.58:151][365]LogEngine: Server switch level: ?Restart
+[2017.03.06-16.00.58:151][365]LogNet: Browse: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player?Restart
+[2017.03.06-16.00.58:151][365]LogLoad: LoadMap: /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap?Name=Player
+[2017.03.06-16.00.58:186][365]LogMemory: Platform Memory Stats for Windows
+[2017.03.06-16.00.58:186][365]LogMemory: Process Physical Memory: 769.86 MB used, 813.07 MB peak
+[2017.03.06-16.00.58:186][365]LogMemory: Process Virtual Memory: 1071.07 MB used, 1173.40 MB peak
+[2017.03.06-16.00.58:186][365]LogMemory: Physical Memory: 8458.50 MB used, 16299.20 MB total
+[2017.03.06-16.00.58:186][365]LogMemory: Virtual Memory: 1778.86 MB used, 134217728.00 MB total
+[2017.03.06-16.00.58:186][365]LogMemory: 
+[2017.03.06-16.00.58:186][365]Allocator Stats for TBB: (not implemented)
+[2017.03.06-16.00.58:683][365]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.06-16.00.58:683][365]LogWorld: Game class is 'GameModeRunner_C'
+[2017.03.06-16.00.58:687][365]LogWorld: Bringing World /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.03.06-11.00.58
+[2017.03.06-16.00.58:687][365]LogWorld: Bringing up level for play took: 0.003381
+[2017.03.06-16.00.58:688][365]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.58:688][365]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.06-16.00.58:688][365]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.58:693][365]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.06-16.00.58:693][365]LogLoad: Took 0.542178 seconds to LoadMap(/Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap)
+[2017.03.06-16.01.00:290][464]LogBlueprintUserMessages: [GameModeRunner_C_0] 620.0
+[2017.03.06-16.01.02:290][588]LogBlueprintUserMessages: [GameModeRunner_C_0] 640.0
+[2017.03.06-16.01.04:290][712]LogBlueprintUserMessages: [GameModeRunner_C_0] 660.0
+[2017.03.06-16.01.06:290][836]LogBlueprintUserMessages: [GameModeRunner_C_0] 680.0
+[2017.03.06-16.01.07:770][926]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.06-16.01.07:772][926]LogEngine: All Windows Closed
+[2017.03.06-16.01.07:772][926]LogWindows: FPlatformMisc::RequestExit(0)
+[2017.03.06-16.01.07:772][927]LogMoviePlayer: Shutting down movie player
+[2017.03.06-16.01.08:218][927]LogExit: Preparing to exit.
+[2017.03.06-16.01.09:080][927]LogExit: Game engine shut down
+[2017.03.06-16.01.09:186][927]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.06-16.01.09:186][927]LogExit: Object subsystem successfully closed.
+[2017.03.06-16.01.09:202][927]LogD3D11RHI: Shutdown
+[2017.03.06-16.01.09:202][927]LogD3D11RHI: CleanupD3DDevice
+[2017.03.06-16.01.09:254][927]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (119)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module SequenceRecorder (118)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module AutomationController (117)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module AutomationWorker (116)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module GameplayDebugger (115)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module AITestSuite (114)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module AIModule (113)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (112)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (111)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module Media (110)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (109)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module CharacterAI (108)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module SessionServices (107)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (106)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module Niagara (105)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (104)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module PortalServices (103)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module PortalRpc (102)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module MessagingRpc (101)
+[2017.03.06-16.01.09:260][927]LogModuleManager: Shutting down and abandoning module ProfilerService (100)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module TaskGraph (99)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module SlateRemote (98)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module SteamVRController (97)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module SteamVR (96)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (95)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module OculusLibrary (94)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module OculusInput (93)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (92)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module CableComponent (91)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (90)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module HTML5Networking (88)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module DesktopPlatform (87)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module HotReload (85)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (84)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module UObjectPlugin (83)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (82)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module SourceControl (81)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (80)
+[2017.03.06-16.01.09:472][927]LogModuleManager: Shutting down and abandoning module UdpMessaging (79)
+[2017.03.06-16.01.09:573][927]LogModuleManager: Shutting down and abandoning module TcpMessaging (78)
+[2017.03.06-16.01.09:932][927]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (77)
+[2017.03.06-16.01.09:932][927]LogModuleManager: Shutting down and abandoning module Paper2D (76)
+[2017.03.06-16.01.09:932][927]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (75)
+[2017.03.06-16.01.09:932][927]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module MediaAssets (73)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (72)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (71)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module VREditor (70)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (69)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module PropertyEditor (68)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (67)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module FunctionalTesting (66)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (65)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module Sequencer (64)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (63)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module MessageLog (62)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module AssetTools (61)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module UMGEditor (60)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module UMG (59)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module SlateReflector (58)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module Slate (57)
+[2017.03.06-16.01.09:933][927]LogModuleManager: Shutting down and abandoning module EditorStyle (56)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module Messaging (55)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (54)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (53)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module XAudio2 (52)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module Networking (50)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module Core (49)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module KismetCompiler (48)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module PhysXFormats (47)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module MeshUtilities (46)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module AssetRegistry (45)
+[2017.03.06-16.01.09:935][927]LogModuleManager: Shutting down and abandoning module DerivedDataCache (44)
+[2017.03.06-16.01.10:455][927]LogDerivedDataCache: Shutdown
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (43)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (42)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (41)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (40)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (39)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (38)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (37)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (36)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module ImageWrapper (35)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (34)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (33)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (32)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (31)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (30)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (29)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (28)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (27)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (26)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.06-16.01.10:455][927]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.06-16.01.10:456][927]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.06-16.01.10:456][927]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.03.06-16.01.10:456][927]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.03.06-16.01.10:456][927]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.03.06-16.01.10:456][927]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.03.06-16.01.10:456][927]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.06-16.01.10:456][927]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.06-16.01.10:474][927]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.06-16.01.10:475][927]LogExit: Exiting.
+[2017.03.06-16.01.10:476][927]Log file closed, 03/06/17 11:01:10
